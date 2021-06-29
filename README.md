@@ -8,5 +8,6 @@
 # Future Work
 
 - [ ] Train GAN on colour images
+- [ ] Improve training results; discriminator, generator loss scores should converge (try different loss functions)
 - [ ] Improve image resolution
 - [ ] Increase training 
